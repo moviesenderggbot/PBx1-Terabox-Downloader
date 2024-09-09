@@ -6,6 +6,9 @@ aiofiles
 aria2p
 git+https://github.com/Hrishi2861/pyrofork-2.2.11-peer-fix.git
 python-dotenv
-gunicorn
 gevent
-flask
+Flask==1.1.2
+gunicorn==20.1.0
+Jinja2==3.0.3
+werkzeug==2.0.2
+itsdangerous==2.0.1
